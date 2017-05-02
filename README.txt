@@ -1,8 +1,5 @@
-ADD:
-- Sadeeque Mohamed
-- 87394352
+
 -The file to run is "chatbot.py" and the cache data are in "cache.json"
-- The Program is the DarkSkyNet project and it should run according to the Final Project guidelines 
 
 Below are few of the accepted prompts:
 
